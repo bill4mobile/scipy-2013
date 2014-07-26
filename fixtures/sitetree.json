@@ -144,5 +144,28 @@
             "hidden": false, 
             "urlaspattern": true
         }
+    },
+    {
+        "pk": 7, 
+        "model": "sitetree.treeitem", 
+        "fields": {
+            "parent": null, 
+            "access_restricted": false, 
+            "access_permissions": [], 
+            "description": "", 
+            "insitetree": true, 
+            "hint": "", 
+            "url": "#", 
+            "inbreadcrumbs": true, 
+            "title": "Speaker", 
+            "tree": 1, 
+            "access_perm_type": 1, 
+            "alias": null, 
+            "sort_order": 7, 
+            "inmenu": true, 
+            "access_loggedin": false, 
+            "hidden": false, 
+            "urlaspattern": true
+        }
     }
 ]
